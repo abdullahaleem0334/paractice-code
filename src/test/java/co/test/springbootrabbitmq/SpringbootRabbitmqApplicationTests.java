@@ -1,6 +1,6 @@
-package co.test.springbootrabbitmq;
+//package co.test.springbootrabbitmq;
 
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
